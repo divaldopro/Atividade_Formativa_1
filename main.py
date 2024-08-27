@@ -4,4 +4,4 @@ email = input("Digite seu email: ")
 
 # Exibe o nome na tela
 print(f"Seu Nome é, {nome}!")
-print(f"Seu email, {nome}!")
+print(f"Seu email, {email}!")
